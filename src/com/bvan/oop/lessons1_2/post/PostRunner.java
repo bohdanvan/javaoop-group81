@@ -20,7 +20,7 @@ public class PostRunner {
         String author = p2.getAuthor();
         System.out.println(author);
 
-        p2.setLikes(100);
+//        p2.setLikes(100);
         System.out.println(p2.show());
     }
 }

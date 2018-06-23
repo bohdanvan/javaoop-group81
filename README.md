@@ -5,6 +5,8 @@ Prog.kiev.ua. Java OOP. Группа 74
 
 [Java OOP. Богдан. Группа 81. Лекции 1-2 (16.06.2018)](https://prog.kiev.ua/forum/index.php/topic,3691.0.html)
 
+[Java OOP. Богдан. Группа 81. Лекции 3-4 (23.06.2018)](https://prog.kiev.ua/forum/index.php/topic,3705.0.html)
+
 ## Запуск проекта локально в Intellij IDEA
 
 1. Скачать исходный код в виде архива (кнопка **Clone or download**).
