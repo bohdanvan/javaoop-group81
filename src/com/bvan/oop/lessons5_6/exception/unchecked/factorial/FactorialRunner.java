@@ -12,7 +12,9 @@ public class FactorialRunner {
             BigInteger factorial = Factorial.factorial(-1);
             System.out.println(factorial);
         } catch (IllegalArgumentException e) {
-            System.out.println("Error: " + e.getMessage());
+            System.out.println("Illegal Argument Error: " + e.getMessage());
+        } catch (RuntimeException e) {
+            System.out.println("Runtime Error: " + e.getMessage());
         } finally {
             System.out.println("Finally");
         }
