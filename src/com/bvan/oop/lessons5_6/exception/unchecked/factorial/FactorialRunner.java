@@ -11,7 +11,7 @@ public class FactorialRunner {
         try {
             BigInteger factorial = Factorial.factorial(-1);
             System.out.println(factorial);
-        } catch (IllegalStateException e) {
+        } catch (IllegalArgumentException e) {
             System.out.println("Error: " + e.getMessage());
         } finally {
             System.out.println("Finally");
