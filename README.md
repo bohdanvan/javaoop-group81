@@ -9,9 +9,11 @@ Prog.kiev.ua. Java OOP. Группа 81
 
 [Java OOP. Богдан. Группа 81. Лекции 5-6 (30.06.2018)](https://prog.kiev.ua/forum/index.php/topic,3721.0.html)
 
-[Java OOP. Богдан. Группа 81. Лекции 7-8 (30.06.2018)](https://prog.kiev.ua/forum/index.php/topic,3744.0.html)
+[Java OOP. Богдан. Группа 81. Лекции 7-8 (21.07.2018)](https://prog.kiev.ua/forum/index.php/topic,3744.0.html)
 
 [Java OOP. Богдан. Группа 81. Лекции 9-10 (28.07.2018)](https://prog.kiev.ua/forum/index.php/topic,3780.0.html)
+
+[Java OOP. Богдан. Группа 81. Лекции 11-12 (04.08.2018)](https://prog.kiev.ua/forum/index.php/topic,3794.0.html)
 
 ## Запуск проекта локально в Intellij IDEA
 
